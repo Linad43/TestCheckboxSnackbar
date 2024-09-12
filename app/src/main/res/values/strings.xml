@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestCheckboxSnackbar</string>
+    <string name="saveData">Сохранить данные</string>
+    <string name="deleteData">Удалить данные</string>
+    <string name="changeProgram">Изменить программу</string>
+    <string name="exit">Выход из приложения</string>
+    <string name="firstProgram">первая</string>
+    <string name="subProgram">Задание 2</string>
+    <string name="information">Информация</string>
+    <string name="rules">1. Первое правило\n2. Второе правило\n3. Третье правило</string>
+    <string name="outLine">None</string>
+    <string name="none">none</string>
+    <string name="inputLine">Вводите текст</string>
+    <string name="informationTrue">Правила дорожного движения</string>
+</resources>
